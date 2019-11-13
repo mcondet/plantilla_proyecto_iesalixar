@@ -18,7 +18,7 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 #### Autor: [Manuel Conde Terraza](Enlace a su cuenta de gitHub)
 #### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
 #### Fecha de Inicio: 13-11-2019
-#### Fecha de Finalización: DD-MM-YYYY
+#### Fecha de Finalización: 20-06-2020
 
 ## Breve descripción del proyecto
 
